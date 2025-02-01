@@ -14,6 +14,7 @@
 - 🔐 **Cybersecurity:** Learning ethical hacking and security fundamentals.
 - 🤖 **AI/ML:** Getting hands-on with Machine Learning.
 - 🎨 **3D Modeling:** Still on the learning curve with Blender and Fusion 360.
+- 🔬 **Hardware:** Have done projects with **Arduino** and **ESP32**.
 - 🛠️ **Software Development:** Not in currently, but will certainly be exploring web development, app development, and maybe even game development.
 
 ---
