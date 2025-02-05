@@ -10,7 +10,7 @@
 ---
 
 <details>
-<summary>A selection of languages I have explored and gained experience in:</summary>
+<summary>A selection of languages and frameworks I have explored and gained experience in:</summary>
   
 |   | Languages |
 |-----:|---------------|
