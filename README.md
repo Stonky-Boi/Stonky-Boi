@@ -17,6 +17,13 @@
 - 🔬 **Hardware:** Have done projects with **Arduino** and **ESP32**.
 - 🛠️ **Software Development:** Not in currently, but will certainly be exploring web development, app development, and maybe even game development.
 
+Here's a list of all the languages I have experience in:
+|   | Languages |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
 ---
 
 💬 **Let's Connect!**
