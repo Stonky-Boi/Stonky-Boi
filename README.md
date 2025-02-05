@@ -1,4 +1,9 @@
 ### Hi there, I'm **Arnav Kumar**! 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img src="default-image.png" alt="A cool representation of my work in AI, robotics, and 3D modeling">
+</picture>
 
 ---
 
