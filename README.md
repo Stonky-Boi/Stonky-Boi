@@ -9,6 +9,17 @@
 
 ---
 
+<details>
+<summary>A selection of languages and frameworks I have explored and gained experience in:</summary>
+  
+|   | Languages |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+</details>
+
 🔧 **Tech Stack & Tools:**
 - 💡 **Programming:** Proficient in C++ and Python, with some experience in C. Always open to exploring more!
 - 🔐 **Cybersecurity:** Learning ethical hacking and security fundamentals.
