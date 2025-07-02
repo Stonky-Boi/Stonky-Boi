@@ -55,11 +55,21 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🚧 Let's Build Something Awesome! 🛠️
 
-- 📫 **Email:** your.email@example.com
-- 🌍 **Portfolio:** [yourportfolio.link](https://yourportfolio.link)
-- 💬 Always open to collaborations—**let’s build something awesome together!**
+> **Work in Progress... but always ready to collaborate!**  
+> AI, hardware hacks, Blender animations, or late-night code chaos—bring it on. 💥
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-kulkarni-25/rohan-kulkarni-25/main/assets/wip.gif" width="250"/>
+</p>
+
+- 🤝 Always open to new ideas, collab projects, or brainstorming over tech & tea ☕
+- 📫 **Reach out anytime** — let’s create something impactful.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🚧+Work+In+Progress...+;🤝+Open+for+Collaborations!" />
+</p>
 
 ---
 
