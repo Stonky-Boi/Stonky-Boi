@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-| Category       | Tools & Languages |
+| Category       | Tools, Libraries, and Platforms Used in My Projects |
 |---------------|-------------------|
 | **Competitive Programming** | Learning on USACO, practicing on CSES and Codeforces |
 | **Cybersecurity** | Learning and practicing on picoCTF |
