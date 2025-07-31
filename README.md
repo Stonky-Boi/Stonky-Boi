@@ -16,25 +16,13 @@
   </a>
 </p>
 
-<picture>
-  <!-- Dark mode GIF -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1"
-  >
-
-  <!-- Light mode GIF -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm"
-  >
-
-  <!-- Fallback GIF and alt text -->
-  <img
-    src="https://giphy.com/gifs/UniversalMusicIndia-elvish-dg-immortals-bawli-uIJBFZoOaifHf52MER"
-    alt="Work in progress coding session—embracing the codelife hustle"
-  >
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif">
+    <img src="https://media.giphy.com/media/uIJBFZoOaifHf52MER/giphy.gif" alt="Loading">
+  </picture>
+</div>
 
 ---
 
