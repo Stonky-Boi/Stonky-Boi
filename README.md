@@ -70,15 +70,23 @@
 > **Work in Progress... but always ready to collaborate!**  
 > AI, hardware hacks, Blender animations, or late-night code chaos—bring it on. 💥
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🚧+Work+In+Progress...+;🤝+Open+for+Collaborations!" />
-</p>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🚧+Work+In+Progress...+;🤝+Open+for+Collaborations!">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=🚧+Work+In+Progress...+;🤝+Open+for+Collaborations!">
+      <img alt="Work in Progress" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=🚧+Work+In+Progress...+">
+    </picture>
+  </div>
 
 - 🤝 Always open to new ideas, collab projects, or brainstorming over tech & tea ☕
 - 📫 **Reach out anytime** — let’s create something impactful.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋;Happy+Coding!+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋;Happy+Coding!+🚀&color=F7F7F7">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋;Happy+Coding!+🚀&color=000000">
+      <img alt="Thanks for visiting! Happy Coding!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+👋;Happy+Coding!+🚀">
+    </picture>
+  </div>
