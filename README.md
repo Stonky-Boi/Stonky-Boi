@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Stonky-Boi">Arnav Kumar</a> 👋</h1>
-
-<p align="center">
-  🚀 Exploring Computer Science • 🔐 Cybersecurity Enthusiast • 🤖 AI/ML Learner • 🧠 Builder & Maker
-</p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Stonky-Boi">Arnav Kumar</a>!</h1>
 
 <p align="center">
   <a href="https://github.com/Stonky-Boi">
@@ -24,16 +20,13 @@
   </picture>
 </div>
 
----
+## About Me
 
-## 🚀 About Me
+- Passionate about **Computer Science**, especially **hardware** and **3D modeling**
+- Currently diving into **programming**, **cybersecurity**, and **AI/ML**
+- Lifelong learner, excited to build innovative and meaningful projects!
 
-- 💻 Passionate about **Computer Science**, especially **hardware** and **3D modeling**
-- 🔍 Currently diving into **programming**, **cybersecurity**, and **AI/ML**
-- 🎯 Lifelong learner, excited to build innovative and meaningful projects!
-
----
-
+<!--
 ## 🛠️ Tech Stack & Tools
 
 | Category       | Tools, Frameworks, and Platforms Used in My Projects |
@@ -46,29 +39,17 @@
 | **3D Modeling** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white) |
 | **Hardware**  | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
 | **Future Plans** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white) |
+-->
 
----
-
-## ✨ Quote I Live By
+## Quote I Live By
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."*  
 > — **Arthur C. Clarke**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stonky-Boi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stonky-Boi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🚧 Let's Build Something Awesome! 🛠️
+## Let's Build Something Awesome!
 
 > **Work in Progress... but always ready to collaborate!**  
-> AI, hardware hacks, Blender animations, or late-night code chaos—bring it on. 💥
+> AI, hardware hacks, Blender animations, or late-night code chaos—bring it on.
 
 <div align="center">
     <picture>
@@ -78,10 +59,8 @@
     </picture>
   </div>
 
-- 🤝 Always open to new ideas, collab projects, or brainstorming over tech & tea ☕
-- 📫 **Reach out anytime** — let’s create something impactful.
-
----
+- Always open to new ideas, collab projects, or brainstorming over tech
+- **Reach out anytime** — let’s create something impactful.
 
 <div align="center">
     <picture>
